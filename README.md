@@ -32,7 +32,7 @@ The following **additional** features have yet to be implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[![Wordle Project Demo]()](https://youtube.com/shorts/xa0FA82yERA)
+[![Wordle Project Demo](https://img.youtube.com/vi/xa0FA82yERA/0.jpg)](https://youtube.com/shorts/xa0FA82yERA)
 
 ## License
 
